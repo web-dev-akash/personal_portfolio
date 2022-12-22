@@ -82,8 +82,9 @@ export const Banner = () => {
 
                   <a
                     className="banner-anchor"
-                    href="#https://drive.google.com/file/d/1OCdeDhWW_MQ60XYQlfzP9-OEF8cfS4px/view?usp=sharing"
-                    download="Akash's Resume.pdf"
+                    href={
+                      "https://drive.google.com/file/d/14jQrJ0A8MdSqmZIE57Y4V0cKq22-Idb3/view?usp=sharing"
+                    }
                   >
                     Resume
                     <span>

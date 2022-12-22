@@ -54,14 +54,12 @@ export const Projects = () => {
                             type={`Team Project | Duration : 1 Week`}
                             imgUrl={projImg1}
                             techStack={
-                              "https://skillicons.dev/icons?i=react,redux,fastapi,heroku,css,js"
+                              "https://skillicons.dev/icons?i=react,redux,fastapi,css,js,express,mongodb,nodejs"
                             }
                             gitHref={
-                              "https://github.com/web-dev-akash/Team_OverStock"
+                              "https://github.com/web-dev-akash/Overstock_FullStack"
                             }
-                            netlifyHref={
-                              "https://overstock-clone-akash.netlify.app/"
-                            }
+                            netlifyHref={"https://overstock-mern.netlify.app/"}
                           />
                         </Row>
                       </Tab.Pane>
